@@ -3,7 +3,6 @@
 ## About Me
 - **University:** AGH University of Science and Technology
 - **Field Of Study:** Computer Science
-- **Year:** 3
 
 ## Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=red)
